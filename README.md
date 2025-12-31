@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a software engineer focussed on app development on all platforms <br>🌱 I'm currently learning .NET and Frontend development
+🔭 I'm a software engineer focussed on app development with flutters <br>🌱 I can also use diffrent tech like react and .NET
 
 
 ## 🌐 Socials:
